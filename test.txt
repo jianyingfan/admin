@@ -1,5 +1,0 @@
-test
-hello jane
-hello world
-test
-test
